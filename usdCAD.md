@@ -17,7 +17,7 @@
 
     ![last-candle](./Assets/usd-cad-last-candle.png)
 
-    - so when we move to the weekly chart we see a `swing point` in creation in the month of `july`
+    - so when we move to the weekly chart we see a `morning start` in creation in the month of `july`
 
     ![usd-cad](./Assets/usd-cad-july-swing-point.png)
 
