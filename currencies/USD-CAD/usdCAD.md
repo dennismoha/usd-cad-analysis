@@ -13,7 +13,7 @@
 
 3) #### Previous candle
 
-    - The last candle is a `doji candlestick pattern`. This tells us that `in the month of july 2024, the market has been opening and closing at the same price which means neither the buyers nor the sellers are in control of the market.` There is equality in decision making. so the market `has not decided which direction to take`.
+    - The last candle as of `07-18-2024` is a `doji candlestick pattern`. This tells us that `in the month of july 2024, the market has been opening and closing at the same price which means neither the buyers nor the sellers are in control of the market.` There is equality in decision making. so the market `has not decided which direction to take`.
 
     ![last-candle](./Assets/usd-cad-last-candle.png)
 
@@ -40,6 +40,8 @@
 
 - This is because it fulfills the following fundamentals:
     ![morning-star-pattern](./Assets/morning-star-bullish%20reversal%20pattern.png)
+
+- 
 
 #### conclusion
 
